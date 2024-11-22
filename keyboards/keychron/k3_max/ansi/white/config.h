@@ -52,3 +52,5 @@
 
 #    define LED_MATRIX_KEYPRESSES
 #endif
+
+#define TAPPING_TERM 200
